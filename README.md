@@ -34,8 +34,8 @@ When combined with other container orchestration tools like Docker Compose or Ku
 
 ### 1. Clone this Repository
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone <git@github.com:iAmAreza/Dockerizing-MLflow-server.git>
+cd <Dockerizing-MLflow-server>
 ```
 
 ### 2. Build the Docker Image
